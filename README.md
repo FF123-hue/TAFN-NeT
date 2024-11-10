@@ -1,5 +1,5 @@
 
-### 1. Prepare the datasets. 
+### 1. Prepare the dataset. 
    SYSU-MM01 Dataset
 
    - Can be downloaded from https://pan.quark.cn/s/6a7661005a50  Extraction code: iHcc
