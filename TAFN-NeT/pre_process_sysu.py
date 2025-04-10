@@ -3,7 +3,7 @@ from PIL import Image
 import pdb
 import os
 
-data_path = '/root/zzf/KMT/LLCM-main/SYSU-MM01'
+data_path = ''
 
 rgb_cameras = ['cam1','cam2','cam4','cam5']
 ir_cameras = ['cam3','cam6']
